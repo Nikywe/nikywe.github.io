@@ -1,0 +1,16 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Nikywe:
+  name: Nikywe
+#  picture: /images/bio-photo-2.jpg
+# twitter: "@billyrick"
+  links:
+    - title: Website 
+      url: https://nikywe.github.io/
+    #  icon: fab fa-twitter-square
+
+Cornelius Fiddlebone:
+  name: Cornelius Fiddlebone
+  picture: /images/bio-photo.jpg
+  twitter: corneliusfiddlebone
