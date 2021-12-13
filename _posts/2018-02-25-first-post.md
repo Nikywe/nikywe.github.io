@@ -1,5 +1,5 @@
 ---
-title: "Hidden Post"
+title: "Welcome My Website"
 hidden: true
 last_modified_at:
 ---
