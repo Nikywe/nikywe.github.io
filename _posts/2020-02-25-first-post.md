@@ -1,5 +1,9 @@
 ---
 title: "Welcome My Website"
+categories:
+ - About
+tags:
+ - About
 hidden: true
 last_modified_at:
 ---
