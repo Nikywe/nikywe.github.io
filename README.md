@@ -3,7 +3,7 @@
   <br>👋 Hi, I'm Nikywe.<br>
   <br> Welcome to my website. <br>
   <body> 
-<p> This is my personal blog 
+<p> My Website is a
 <a href = "https://nikywe.github.io/" target="_blank">Nikywe.github.io</a> 
 </p> 
 </body> 
