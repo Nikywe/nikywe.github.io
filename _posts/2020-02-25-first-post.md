@@ -1,5 +1,5 @@
 ---
-title: "Welcome My Website"
+title: "A Warm Welcome"
 categories:
  - About
 tags:
@@ -8,9 +8,5 @@ hidden: true
 last_modified_at:
 ---
 
-# A warm welcome.
-### My name is NayOo.
-### I live in Myanmar. 
-### My job is a sailor.
-### 👴I am 37 years old.👴 
-### 🤘I am single.🤘�
+## ✌ Hi I'm NayOo.
+## 🕺 Nice to meet you.
